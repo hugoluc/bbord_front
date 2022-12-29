@@ -1,25 +1,18 @@
 {
-  "short_name": "Bord",
-  "name": "Board",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#5235A5",
-  "background_color": "#5235A5"
+  "src/assets/react.svg": {
+    "file": "assets/react-35ef61ed.svg",
+    "src": "src/assets/react.svg"
+  },
+  "index.css": {
+    "file": "assets/index-028dc2a8.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "file": "assets/index-4db7cd17.js",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-028dc2a8.css"
+    ]
+  }
 }
